@@ -3,10 +3,10 @@
     请使用 "apply - <你的用户ID>" 命名你的仓库, 例如 apply-S7ateM4ch1ne
 
 ## 基本信息
-•	姓名（Name）：
-•	年级（Year）：
-•	专业领域（Major/Field of Study）：计算机类
-•	联系方式（Email）：邮箱
+• 姓名（Name）：
+• 年级（Year）：
+• 专业领域（Major/Field of Study）：计算机类
+• 联系方式（Email）：邮箱
 
 ## 技术背景
 
