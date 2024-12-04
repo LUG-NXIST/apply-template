@@ -1,6 +1,6 @@
 # LUG 申请材料模板 （使用模板后该一级标题修改为 "xxx 申请材料")
     
-    请使用 "apply - <你的用户ID>" 命名你的仓库, 例如 **apply-S7ateM4ch1ne** 
+    请使用 "apply - <你的用户ID>" 命名你的仓库, 例如 apply-S7ateM4ch1ne
 
 ## 基本信息
 •	姓名（Name）：
